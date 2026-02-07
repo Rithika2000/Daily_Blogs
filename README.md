@@ -81,5 +81,5 @@ AWS Bedrock allows organizations to deploy enterprise-grade LLMs (Claude, Titan,
 
 ### References
 
-https://amanxai.com/2024/10/21/document-analysis-using-llms-with-python/
-https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/?utm_source=chatgpt.com
+- 1. https://amanxai.com/2024/10/21/document-analysis-using-llms-with-python/
+- 2. https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/?utm_source=chatgpt.com
